@@ -1,5 +1,5 @@
 # MutiMed-Predictor
-Milestone 2 and 3, code files are uploaded here
+Milestone 2 and 3, code files are also uploaded here
 
 
 A machine learning application for predicting the likelihood of multiple diseases based on user input and medical data. This project supports risk prediction for conditions such as diabetes, heart disease, and Parkinson's disease, aiding healthcare professionals and individuals in identifying potential health risks
