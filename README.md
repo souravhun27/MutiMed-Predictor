@@ -22,7 +22,7 @@ The datasets for this project were sourced from Kaggle:-
 
 - **Data Preprocessing**
 
-Preprocessing steps, implemented through a dedicated script, include:-
+      Preprocessing steps, implemented through a dedicated script, include:-
 
 Handling missing values
 Feature scaling
