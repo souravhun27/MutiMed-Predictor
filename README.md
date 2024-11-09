@@ -22,38 +22,38 @@ The datasets for this project were sourced from Kaggle:-
 
 - **Data Preprocessing**
 
-      Preprocessing steps, implemented through a dedicated script, include:-
+   Preprocessing steps, implemented through a dedicated script, include:-
 
-Handling missing values
-Feature scaling
-Encoding categorical variables
+    Handling missing values
+    Feature scaling
+    Encoding categorical variables
 
 
 
 - **Data Visualization**
 
-Visualizations using Seaborn and Matplotlib were generated to understand the data distribution and relationships. Plots include correlation heatmaps, histograms, and box plots to identify trends and outliers.
+  Visualizations using Seaborn and Matplotlib were generated to understand the data distribution and relationships. Plots include correlation heatmaps, histograms, and box     plots to identify trends and outliers.
 
 - **Feature Selection**
 
-Feature selection was performed using Recursive Feature Elimination (RFE) to rank features by their importance. The top-ranked features were retained, while the least significant features were set to default values based on central tendency, allowing users the option to customize these values for potentially improved predictions.
+  Feature selection was performed using Recursive Feature Elimination (RFE) to rank features by their importance. The top-ranked features were retained, while the least        significant features were set to default values based on central tendency, allowing users the option to customize these values for potentially improved predictions.
 
 
 
 - **Model Selection**
 
-The following models were evaluated for each disease, with the best-performing model selected:-
+    The following models were evaluated for each disease, with the best-performing model selected:-
 
-  -Diabetes Prediction: Logistic Regression
-  -Heart Disease Prediction: SVM
-  -Parkinson's Disease Prediction: SVM
+    -Diabetes Prediction: Logistic Regression
+    -Heart Disease Prediction: SVM
+    -Parkinson's Disease Prediction: SVM
 
 
 - **Usage**
 
-  - Launch the application interface.
-  - Input the necessary medical data.
-  - Choose the disease prediction model.
-View the prediction results and risk assessment.
+    - Launch the application interface.
+    - Input the necessary medical data.
+    - Choose the disease prediction model.
+    View the prediction results and risk assessment.
 
 
