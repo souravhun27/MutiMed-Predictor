@@ -4,10 +4,12 @@ Milestone 2 and 3, code files are uploaded here
 
 A machine learning application for predicting the likelihood of multiple diseases based on user input and medical data. This project supports risk prediction for conditions such as diabetes, heart disease, and Parkinson's disease, aiding healthcare professionals and individuals in identifying potential health risks
 
-Features
+#Features
 
-Multi-Disease Prediction: Predicts the likelihood of diseases including diabetes, heart disease, and Parkinson's disease.
+*Multi-Disease Prediction:* Predicts the likelihood of diseases including diabetes, heart disease, and Parkinson's disease.
+
 Feature Selection and Optimization: Utilizes Recursive Feature Elimination (RFE) to rank features and optimize model performance.
+
 Data Imputation with Central Tendency: Retains all features by setting default values (mean, median) for missing or less important attributes.
 
 Data Collection
